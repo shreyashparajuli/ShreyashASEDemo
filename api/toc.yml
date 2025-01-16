@@ -1,0 +1,71 @@
+### YamlMime:TableOfContent
+items:
+- uid: ASE_Assignment
+  name: ASE_Assignment
+  type: Namespace
+  items:
+  - uid: ASE_Assignment.CircleFill
+    name: CircleFill
+    type: Class
+  - uid: ASE_Assignment.CustomArrayCommand
+    name: CustomArrayCommand
+    type: Class
+  - uid: ASE_Assignment.CustomCanvas
+    name: CustomCanvas
+    type: Class
+  - uid: ASE_Assignment.CustomCommandFactory
+    name: CustomCommandFactory
+    type: Class
+  - uid: ASE_Assignment.CustomElseCommand
+    name: CustomElseCommand
+    type: Class
+  - uid: ASE_Assignment.CustomForCommand
+    name: CustomForCommand
+    type: Class
+  - uid: ASE_Assignment.CustomIfCommand
+    name: CustomIfCommand
+    type: Class
+  - uid: ASE_Assignment.CustomIntCommand
+    name: CustomIntCommand
+    type: Class
+  - uid: ASE_Assignment.CustomRealComand
+    name: CustomRealComand
+    type: Class
+  - uid: ASE_Assignment.CustomStoredProgram
+    name: CustomStoredProgram
+    type: Class
+  - uid: ASE_Assignment.CustomTriangleCommand
+    name: CustomTriangleCommand
+    type: Class
+  - uid: ASE_Assignment.CustomWhileCommand
+    name: CustomWhileCommand
+    type: Class
+  - uid: ASE_Assignment.CustomWriteCommand
+    name: CustomWriteCommand
+    type: Class
+  - uid: ASE_Assignment.Form1
+    name: Form1
+    type: Class
+  - uid: ASE_Assignment.RectFill
+    name: RectFill
+    type: Class
+- uid: AssignTests
+  name: AssignTests
+  type: Namespace
+  items:
+  - uid: AssignTests.CustomCanvasOperations
+    name: CustomCanvasOperations
+    type: Class
+  - uid: AssignTests.CustomFlowCommands
+    name: CustomFlowCommands
+    type: Class
+  - uid: AssignTests.CustomVarNAssignTests
+    name: CustomVarNAssignTests
+    type: Class
+  - uid: AssignTests.Test1
+    name: Test1
+    type: Class
+  - uid: AssignTests.TestCanvasFunctions
+    name: TestCanvasFunctions
+    type: Class
+memberLayout: SamePage
